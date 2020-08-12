@@ -1,7 +1,7 @@
 # Learning Github
-:pushpin: learning to use Github
-:pushpin: run a basic Python script in Repl.it
-:pushpin: create your own python script and 
+:pushpin: learning to use Github  
+:pushpin: run a basic Python script in Repl.it  
+:pushpin: create your own python script and run it  
 
 ## Create an Account
 - Sign up for free GitHub account using your school email.  (You can always add your personal as a secondary account)
