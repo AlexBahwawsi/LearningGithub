@@ -12,4 +12,8 @@ for i in range(5):
     oneJoke = response.json()
     jokes.append(oneJoke['joke'])
 
-print(*jokes, sep = "\n") #print each joke on a separate line
+count = 1
+
+for joke in jokes:
+    print(str(count) + '. ' + joke + "\n")
+    count+=1
