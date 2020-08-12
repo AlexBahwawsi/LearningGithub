@@ -7,7 +7,7 @@
 - Sign up for free GitHub account using your school email.  (You can always add your personal as a secondary account)
 
 ## Instructions
-- Copy the GitHub link for this assignment: https://repl.it/@collinholmquist/Scripts4Fun#main.py
+- Copy the GitHub link for this assignment: 
 - In [Repl.it](https://repl.it), click the **New Repl (+)** in the top right corner
 - Select **Import from GitHub** and paste the link
 - The **.replit** file decides what happens when you click the run button. You may have to use the settings below
