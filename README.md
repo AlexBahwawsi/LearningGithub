@@ -13,7 +13,7 @@
 - The **.replit** file decides what happens when you click the run button. You may have to use the settings below
   ```
   language = "python3"
-  run = "python mydemoapp.py"
+  run = "python Scripts4Fun.py"
   ```
   :rotating_light: If we try to 'save' this back to Github, you'll run into an error because you won't have access to make any changes.  
 
