@@ -32,7 +32,7 @@ Since we will be using Repl.it, we will be **forking** a repository that I have 
 
 ![Directions to add repl.it from Github](https://www.codewithrepl.it/img/06-importing-from-github.png)
 
-Create a new repl and import this fork of the project instead.  Configure the .replit file again and open the version control tab, as before. Under "what did you change" enter "add .repl file" or a similar message to describe what contributions you're making, and press commit and push.  You'll see the error again and be presented with the option to connect your Repl.it account to GitHub to prove that you authorise Repl.it to make these changes to GitHub on your behalf. You can give Repl.it access to all of your repositories (useful if you want to use this integration a lot), but by default it will only get permission for the specific repository that we're working with.
+***Create a new repl and import this fork of the project instead.***  Configure the .replit file again and open the version control tab, as before. Under "what did you change" enter "add .repl file" or a similar message to describe what contributions you're making, and press commit and push.  You'll see the error again and be presented with the option to connect your Repl.it account to GitHub to prove that you authorise Repl.it to make these changes to GitHub on your behalf. You can give Repl.it access to all of your repositories (useful if you want to use this integration a lot), but by default it will only get permission for the specific repository that we're working with.
 
 ![Pushing Changes to a Repo](https://www.codewithrepl.it/img/06-version-control-tab.png)
 
